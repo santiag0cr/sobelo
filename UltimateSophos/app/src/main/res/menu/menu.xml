@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_send_documents"
+        android:orderInCategory="1"
+        android:title="@string/menu_send_documents"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_watch_documents"
+        android:orderInCategory="2"
+        android:title="@string/menu_watch_documents"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_offices"
+        android:orderInCategory="3"
+        android:title="@string/menu_offices"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_dark_mode"
+        android:orderInCategory="4"
+        android:title="@string/menu_dark_mode"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_english_language"
+        android:orderInCategory="5"
+        android:title="@string/menu_change_language"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_logout"
+        android:orderInCategory="6"
+        android:title="@string/menu_logout"
+        app:showAsAction="never"
+        />
+</menu>

@@ -1,0 +1,87 @@
+<resources>
+    <!-- General -->
+    <string name="return_title">Regresar</string>
+    <string name="send_documents_fragment_title">Envío de documentación</string>
+    <string name="watch_documents_fragment_title">Documentos</string>
+    <string name="preview_documents_fragment_title">Documento cargado</string>
+    <string name="offices_fragment_title">Oficinas</string>
+
+    <!-- Login Screen -->
+    <string name="app_name" translatable="false">Sophos App</string>
+    <string name="login_image_description">Logo de Sophos</string>
+    <string name="login_description">Ingresa tus datos para acceder</string>
+    <string name="corporate_logo_content_description">Logo corporativo</string>
+    <string name="user_icon_image_description">Icono que simboliza usuario</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="password_icon_description">Icono de una llave</string>
+    <string name="show_password_icon_description">Mostrar u ocultar contraseña</string>
+    <string name="access_text">Ingresar</string>
+    <string name="fingerprint_button_text">Ingresar con huella</string>
+    <string name="location_title">Permiso de acceso</string>
+    <string name="location_subtitle">Sophos App necesita conocer tu ubicación para poder mostrarte las oficinas cercanas a ti.</string>
+    <string name="location_subtitle_negative">Sophos App no puede detectar tu ubicación por lo que el mapa no te podrá mostrar las oficinas más cercanas a ti. Si deseas tener toda la funcionalidad, por favor, activa los permisos de localización desde Ajustes de tu celular.</string>
+    <string name="biometrics_title">Ingresa con huella</string>
+    <string name="biometrics_subtitle">Pon tu dedo sobre el lector de huella del celular para ingresar a la aplicación</string>
+    <string name="biometrics_button">Prefiero usar mis credenciales</string>
+    <string name="biometric_error_title">Inténtalo de nuevo</string>
+    <string name="biometric_error_message">La huella no fue reconocida</string>
+    <string name="incorrect_credentials_title">No fue posible iniciar sesión</string>
+    <string name="incorrect_credentials_body">El usuario o la contraseña ingresados no son correctos. Por favor intenta de nuevo.</string>
+    <string name="accept_message">Aceptar</string>
+    <string name="cancel_message">Cancelar</string>
+
+    <!-- Welcome Screen -->
+    <string name="welcome_title">Bienvenido</string>
+    <string name="welcome_message">Estas son las opciones que tenemos para ti</string>
+    <string name="logout_title">¿Cerrar sesión?</string>
+    <string name="logout_message">¿Deseas cerrar tu sesión en este dispositivo?</string>
+    <string name="send_documents_icon_description">Icono de ver documentos</string>
+    <string name="watch_documents_icon_description">Icono de enviar documentos</string>
+    <string name="offices_icon_description">Icono de ver oficinas</string>
+
+    <!-- Send Documents Screen -->
+    <string name="document_type_hint">Tipo de documento</string>
+    <string name="document_number_hint">Numero de documento</string>
+    <string name="names_hint">Nombres</string>
+    <string name="lastnames_hint">Apellidos</string>
+    <string name="city_hint">Ciudad</string>
+    <string name="attachment_type_hint">Tipo de adjunto</string>
+    <string name="document_button">Documento</string>
+    <string name="send_form_button">Enviar</string>
+    <string name="camera_title">Permiso de cámara</string>
+    <string name="camera_subtitle">Sophos App necesita utilizar tu cámara para poder tomar fotos.</string>
+    <string name="camera_subtitle_negative">Sophos App no puede tomar fotos, por lo que deberás cargarla desde tu dispositivo. Si deseas tener toda la funcionalidad, por favor, activa los permisos de cámara desde Ajustes de tu celular.</string>
+    <string name="send_docs_success_title">¡Éxito!</string>
+    <string name="send_docs_success_message">Documento cargado correctamente.</string>
+    <string name="send_docs_success_accept_button">Cargar otro</string>
+    <string name="send_docs_error_title">¡Algo salió mal!</string>
+    <string name="send_docs_error_message">Hubo un error en la carga del documento. Por favor, verifica que todos los datos hayan sido llenados correctamente y que la imagen haya sido seleccionada.</string>
+    <string name="send_docs_incomplete_info_title">Información incompleta</string>
+    <string name="send_docs_incomplete_info_message">Por favor, llena todos los campos y adjunta la foto/imagen del documento.</string>
+
+    <!-- Watch Documents Screen -->
+    <string name="document_date_and_type" translatable="false">%1$s - %2$s</string>
+    <string name="document_username" translatable="false">%1$s %2$s</string>
+
+    <!-- Shared Preferences -->
+    <string name="preferences_file_name" translatable="false">sophos_shared_preferences</string>
+    <string name="preferences_id_key" translatable="false">pref_id</string>
+    <string name="preferences_username_key" translatable="false">pref_name</string>
+    <string name="preferences_last_name_key" translatable="false">pref_lastName</string>
+    <string name="preferences_access_key" translatable="false">pref_access</string>
+    <string name="preferences_admin_key" translatable="false">pref_admin</string>
+    <string name="preferences_email_key" translatable="false">pref_email</string>
+
+    <!-- Toolbar Menu -->
+    <string name="menu_send_documents">Enviar Documentos</string>
+    <string name="menu_watch_documents">Ver Documentos</string>
+    <string name="menu_offices">Oficinas</string>
+    <string name="menu_dark_mode">Modo Nocturno</string>
+    <string name="menu_change_language">Idioma Inglés</string>
+    <string name="menu_logout">Cerrar sesión</string>
+
+    <!-- Toolbar Menu -->
+    <string name="menu_take_photo">Tomar foto</string>
+    <string name="menu_upload_photo">Subir foto</string>
+</resources>

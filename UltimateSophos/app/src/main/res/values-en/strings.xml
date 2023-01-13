@@ -1,0 +1,73 @@
+<resources>
+    <!-- General -->
+    <string name="return_title">Back</string>
+    <string name="send_documents_fragment_title">Send Documentation</string>
+    <string name="watch_documents_fragment_title">Documents</string>
+    <string name="preview_documents_fragment_title">Uploaded Documents</string>
+    <string name="offices_fragment_title">Offices</string>
+
+    <!-- Login Screen -->
+    <string name="login_image_description">Sophos Logo</string>
+    <string name="login_description">Enter your info to access</string>
+    <string name="corporate_logo_content_description">Corporate Logo</string>
+    <string name="user_icon_image_description">User icon</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="password_icon_description">Key icon</string>
+    <string name="show_password_icon_description">Hide or show password</string>
+    <string name="access_text">Log in</string>
+    <string name="fingerprint_button_text">Fingerprint Log in</string>
+    <string name="location_title">Access permissions</string>
+    <string name="location_subtitle">Sophos app needs to get your location in order to show you the offices close to you.</string>
+    <string name="location_subtitle_negative">Sophos app cannot detect your location, hence the map cannot show you the offices close to you. If you wish to get full functionality, please grant location permissions from your phone settings.</string>
+    <string name="biometrics_title">Fingerprint Login</string>
+    <string name="biometrics_subtitle">Put your finger on the fingerprint sensor to access the application</string>
+    <string name="biometrics_button">I would rather use my credentials</string>
+    <string name="biometric_error_title">Try again</string>
+    <string name="biometric_error_message">Fingerprint not recognized</string>
+    <string name="incorrect_credentials_title">Login failed</string>
+    <string name="incorrect_credentials_body">Username or password are incorrect. Please, try again.</string>
+    <string name="accept_message">Accept</string>
+    <string name="cancel_message">Cancel</string>
+
+    <!-- Welcome Screen -->
+    <string name="welcome_title">Welcome</string>
+    <string name="welcome_message">These are the options we have for you</string>
+    <string name="logout_title">Log out?</string>
+    <string name="logout_message">Do you wish to log out from this device?</string>
+    <string name="send_documents_icon_description">Watch documents logo</string>
+    <string name="watch_documents_icon_description">Send documents logo</string>
+    <string name="offices_icon_description">Offices logo</string>
+
+    <!-- Send Documents Screen -->
+    <string name="document_type_hint">Document type</string>
+    <string name="document_number_hint">Document number</string>
+    <string name="names_hint">Name</string>
+    <string name="lastnames_hint">Lastname</string>
+    <string name="city_hint">City</string>
+    <string name="attachment_type_hint">Attachment type</string>
+    <string name="document_button">Document</string>
+    <string name="send_form_button">Send</string>
+    <string name="camera_title">Camera permissions</string>
+    <string name="camera_subtitle">Sophos App needs to use your camera to take photos.</string>
+    <string name="camera_subtitle_negative">Sophos app cannot take photos, hence you will have to upload it from your device. If you wish to get full functionality, please grant camera permissions from your phone settings.</string>
+    <string name="send_docs_success_title">Success!</string>
+    <string name="send_docs_success_message">Document uploaded correctly.</string>
+    <string name="send_docs_success_accept_button">Upload another</string>
+    <string name="send_docs_error_title">Something went wrong!</string>
+    <string name="send_docs_error_message">There was an error uploading your document. Please, make sure all the information is correct and the information had been selected.</string>
+    <string name="send_docs_incomplete_info_title">Incomplete information</string>
+    <string name="send_docs_incomplete_info_message">Please, fill all the information and attach the document photo/image.</string>
+
+    <!-- Toolbar Menu -->
+    <string name="menu_send_documents">Send Documents</string>
+    <string name="menu_watch_documents">Watch Documents</string>
+    <string name="menu_offices">Offices</string>
+    <string name="menu_dark_mode">Night Mode</string>
+    <string name="menu_change_language">Spanish language</string>
+    <string name="menu_logout">Log out</string>
+
+    <!-- Toolbar Menu -->
+    <string name="menu_take_photo">Take photo</string>
+    <string name="menu_upload_photo">Upload photo</string>
+</resources>
